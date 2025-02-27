@@ -2,7 +2,6 @@
 
 [![Claramente](https://claramente.ru/upload/claramente/a2c/ho3rj4p3j2t7scsartohgjajkb1xkyh0/logo.svg)](https://claramente.ru)
 
-
 Установка через composer
 -------------------------
 Пример composer.json с установкой модуля в local/modules/
