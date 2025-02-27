@@ -78,7 +78,7 @@
 - Коды ответов от сервера
 - Обновляемые ссылки
 
-![Страницы регенерации](https://claramente.ru/upload/claramente/claramente-recache-module-page-pages.png)
+![Страницы регенерации](https://claramente.ru/upload/claramente/claramente-recache-module-page-pages-2.png)
 
 ---
 
@@ -86,7 +86,7 @@
 
 На странице "Настройки модуля" представлены параметры конфигурации для каждого сайта.
 
-![Страницы настроек](https://claramente.ru/upload/claramente/claramente-recache-module-page-settings.png)
+![Страницы настроек](https://claramente.ru/upload/claramente/claramente-recache-module-page-settings-2.png)
 
 ### Описание параметров
 
