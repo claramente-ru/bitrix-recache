@@ -1,0 +1,9 @@
+.cm-span-comment {
+    font-style: italic;
+    font-size: 11px;
+}
+
+.refresh_menu_icon {
+    background: url("/local/modules/claramente.recache/assets/images/refresh-icon.png") no-repeat 8px 4px;
+    background-size: 20px;
+}

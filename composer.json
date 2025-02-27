@@ -1,0 +1,23 @@
+{
+  "name": "claramente/claramente.recache",
+  "description": "Bitrix - ReCache. Регенерация и поддержка кэша",
+  "type": "bitrix-module",
+  "license": "MIT",
+  "keywords": [
+    "bitrix",
+    "bitrix cache",
+    "bitrix recahce",
+    "bitrix кэш",
+    "bitrix регенерация кэша"
+  ],
+  "authors": [
+    {
+      "name": "Claramente",
+      "email": "info@claramente.ru"
+    }
+  ],
+  "require": {
+    "php": ">=8.0",
+    "composer/installers": "~1"
+  }
+}
